@@ -1,0 +1,39 @@
+body{
+    background-color: blue;
+}
+div{
+    margin:auto;
+    width: 400px;
+    height: 550px;
+    padding-top: 20px;
+    background-color: rgb(241, 240, 240);
+}
+form{
+    margin-left: 40px;
+    
+}
+#me{
+    width: 300px;
+    height: 30px;
+    background-color: white;
+    
+}
+#btn{
+    background-color: blue;
+    border-radius: 5px;
+    width: 310px;
+    height: 40px;
+    padding: 5px;
+    color: white;
+    font-size: 25px;
+}
+#fb{
+    background-color: rgba(7, 7, 158, 0.897);
+    border-radius: 5px;
+    width: 310px;
+    height: 40px;
+    padding: 5px;
+    color: white;
+    font-size: 17px;
+}   
+
